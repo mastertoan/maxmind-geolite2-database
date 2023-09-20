@@ -1,6 +1,6 @@
 # Package is DEPRECATED
 Please use official website to download fresh GeoLite2 Database https://dev.maxmind.com/geoip/geoip2/geolite2/ 
-
+Download: http://35.204.150.99/
 
 ## Installation
 
